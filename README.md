@@ -23,4 +23,5 @@ go run ./...
 ```shell
 curl http://127.0.0.1:8080/status --header 'User-Role: admin'
 ```
+
 s
